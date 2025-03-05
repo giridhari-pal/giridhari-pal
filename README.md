@@ -15,21 +15,21 @@ Specialized in scalable system design using Docker, Kafka, gRPC, and multithread
 Developed ERP applications, dashboards, and automation tools for various clients using Flask, Node.js, PostgreSQL, and other technologies. Notably worked on custom OCR applications and IoT dashboards.
 
 ## 💻 Projects
-Cricket Bidding Application
+- Cricket Bidding Application
 A desktop application built with Python, PyQt, and PostgreSQL that allows users to participate in a cricket bidding process.
 
-AI-powered Discord Bot
+- AI-powered Discord Bot
 Developed a bot to fetch live information like weather and product prices using web scraping techniques.
 
-Data Visualization with Metabase
+- Data Visualization with Metabase
 Created dynamic dashboards on DigitalOcean's virtual machine, utilizing SQL for data extraction.
 
 ## 📚 Education
-B.E. in Information Science and Engineering
+### B.E. in Information Science and Engineering
 Sri Krishna Institute of Technology, Bangalore (2019–2023) | CGPA: 7.5
-🔧 Technical Skills
-Core: Python, PyQt, Django, Machine Learning, IoT, Cloud Computing, Docker, React.js, Node.js, PostgreSQL, Kafka, gRPC
-Other Skills: C/C++, NoSQL, Git, HTML/CSS, Android, Arduino, Raspberry Pi
+### 🔧 Technical Skills
+- Core: Python, PyQt, Django, Machine Learning, IoT, Cloud Computing, Docker, React.js, Node.js, PostgreSQL, Kafka, gRPC
+- Other Skills: C/C++, NoSQL, Git, HTML/CSS, Android, Arduino, Raspberry Pi
 ## 💬 Let's Collaborate!
 I'm always looking for opportunities to collaborate on exciting software development projects. If you're interested in working together or have a project idea, feel free to reach out!
 
