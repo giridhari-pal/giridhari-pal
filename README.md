@@ -9,19 +9,28 @@ Languages & Tools: Python, Django, React, Node.js, Machine Learning, IoT, Cloud 
 - Tech Stacks: Docker, Kubernetes, Microservices, Data Science, Tauri.
 ## 💼 Work Experience
 ### RC Labs (Battery Management System) | DevOps & SDE Consultant Engineer
-Specialized in scalable system design using Docker, Kafka, gRPC, and multithreading to enhance performance. Led efforts in real-time data monitoring for battery systems.
+Designed scalable architectures using Docker, Kafka, gRPC, and multithreading. Led real-time battery monitoring system development with optimized data pipelines and secure IoT integration.
 
 ### Freelancing Projects
-Developed ERP applications, dashboards, and automation tools for various clients using Flask, Node.js, PostgreSQL, and other technologies. Notably worked on custom OCR applications and IoT dashboards.
+Built ERP systems, dashboards, and automation tools for businesses using Flask, Node.js, PostgreSQL, and cloud services. Developed custom OCR applications, IoT dashboards, and AI-powered bots for various industries.
+
+### HDFC Bank | Freelance ML Engineer
+Developed a TensorFlow-based OCR system for document processing, improving efficiency and accuracy in financial workflows.
+
+### IoT & Data Visualization
+Designed real-time monitoring systems using Grafana, Metabase, Node-RED, and PostgreSQL for IoT-based projects. Created Python data pipelines for AWS S3 integration and structured data analysis.
+
+### Full-Stack Development
+Delivered web and desktop applications using React, Next.js, Flask, Django, and PyQt, integrating APIs, cloud services, and real-time data processing for scalable solutions.
 
 ## 💻 Projects
-- Cricket Bidding Application
+### Cricket Bidding Desktop Application:
 A desktop application built with Python, PyQt, and PostgreSQL that allows users to participate in a cricket bidding process.
 
-- AI-powered Discord Bot
+### AI-powered Discord Bot:
 Developed a bot to fetch live information like weather and product prices using web scraping techniques.
 
-- Data Visualization with Metabase
+### Data Visualization with Metabase
 Created dynamic dashboards on DigitalOcean's virtual machine, utilizing SQL for data extraction.
 
 ## 📚 Education
